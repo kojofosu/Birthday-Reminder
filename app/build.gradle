@@ -31,4 +31,7 @@ dependencies {
 
     //Firebase SDK for Google Analytics
     implementation 'com.google.firebase:firebase-analytics:17.4.4'
+
+    //for android motion layout
+    implementation 'com.android.support.constraint:constraint-layout:2.0.0-rc1'
 }
