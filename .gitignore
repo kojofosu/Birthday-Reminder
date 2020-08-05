@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 .idea
+
+#fireabase json file
+app/google-services.json
